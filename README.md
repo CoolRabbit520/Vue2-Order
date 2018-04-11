@@ -24,7 +24,7 @@ vue2 + vue-router + vuex + rem + webpack
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080/#/shop/1
 npm run dev
 
 # build for production with minification
